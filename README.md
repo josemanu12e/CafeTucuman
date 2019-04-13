@@ -1,2 +1,2 @@
 # CafeTucuman
-Desarrollo del proyecto se software de una cafetería.
+Desarrollo del proyecto de software de una cafetería.
